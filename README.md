@@ -11,4 +11,6 @@ Chopra is my port of ScireSM's Pokémon Shuffle Unpacker (https://github.com/Sci
 `./depack.py folder_to_unpack`
 (Any subdirectories of the folder will be ignored.)
 
-Chopra is expecting files dumped from 3DS Extra Data; it performs certain magic number checks to verify this, so any other random file it is given will be ignored. If you think something should be unpacked but is not, please open an issue.
+If you are unpacking files from Pokémon Shuffle Mobile, please use `depack_mobile.py` instead. Each unpacker will reject files from the other version of the game.
+
+Chopra is expecting files dumped from 3DS Extra Data or from the mobile version of Shuffle; it performs certain magic number checks to verify this, so any other random file it is given will be ignored. If you think something should be unpacked but is not, please open an issue.
