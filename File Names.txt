@@ -116,6 +116,7 @@ EE121924	stageResultTips.bin
 8B7C5474	messagePokemonTrainer_{0}.bin
 062AE7D2	tutorialPokemonEditGoods.gmb
 A71B00E2	env_black2.bch
+3346F8CE	escalationSkipChance.bin
 4F56853C	eventStage.bin
 444F0962	extdata_robin2.icn
 4792D2E6	finish_flash.bch
@@ -204,6 +205,7 @@ B0CE0144	Item01.bch
 9A391EF4	Item05.bch
 8EF0D904	Item06.bch
 9CB51CB2	itemData.bin
+F76B4C48	itemPattern.bin
 7FC7F92E	ItemSet.arc
 CCFF30E8	ItemSetList.arc
 7C08AD80	ItemSetPlate.arc
