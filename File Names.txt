@@ -3,6 +3,7 @@ CEEFBC3E	animData.bin
 50CA4D34	appear_legend.bch
 ABE67DDC	appear_normal.bch
 AEF78148	appear_visionary.bch
+A027D37C	appParam.bin
 64E68048	areaData.bin
 E3C81994	attack_enemy.bch
 0C3875BE	AttributePlate.arc
@@ -64,6 +65,7 @@ D392408C	confetti_rank_b.ptcl
 8F619486	confetti_rank_c.ptcl
 F11E8E6E	confetti_rank_s.ptcl
 091A3E10	country.bin
+EDCA7872	credits.bin
 FB05AE14	DamageValue.arc
 94734918	DamageValue_FR.arc
 2E98ADC4	DamageValue_GE.arc
@@ -82,7 +84,6 @@ C2E1AFFE	down_normal.bch
 06E2EECC	down_visionary.bch
 DD85EE96	ec.gmb
 A71B00E2	env_black2.bch
-3346F8CE	escalationSkipChance.bin
 4F56853C	eventStage.bin
 A016B21C	eventStageExtendSetting.bin
 444F0962	extdata_robin2.icn
@@ -184,7 +185,9 @@ EB9B219E	JewelShop.arc
 8FDA9C56	kirakiraCursor.arc
 6D4A9912	layout.bin
 75ED3780	layoutLocalize.bin
+3346F8CE	levelUpAngryParam.bin
 CFAEA870	levelUpStagePrize.gmb
+D33D2F70	limitedShop.bin
 E9098B38	ListArrow.arc
 32D33AAE	ListSearchArrow.arc
 38D32B8C	map00.bch
@@ -616,10 +619,11 @@ FFC7CDE6	messageCheckIn_{0}.bin
 CBED7E78	messageCommon_{0}.bin
 1B53DAD0	messageCoreGame_{0}.bin
 682C56C8	messageEventStage_{0}.bin
+69DD6C8A	messageGift_US.bin
 CADEBF7E	messageItemSelect_{0}.bin
 FD09FCC6	messageMissionCards_{0}.bin
 EA43AF22	messageMyData_{0}.bin
-BBC93D48	messageNews_{0}.bin
+BBC93D48	messageNotice_{0}.bin
 424A65D0	messagePassword_{0}.bin
 59769B10	messagePokedex_{0}.bin
 3BA59AEC	messagePokemonEdit_{0}.bin
@@ -636,6 +640,9 @@ ACE832A0	messageStreetPass_{0}.bin
 35674950	messageSupportNumber_{0}.bin
 0EC59F16	messageTitle_{0}.bin
 7F1C9C7A	messageTutorial_{0}.bin
+AF147156	missionCard.bin
+1F59A080	missionData.bin
+58A8081E	missionPrize.bin
 1415E1F0	MVPIcon.arc
 27C38038	MyData.arc
 41A1D0EE	network.gmb
@@ -643,6 +650,7 @@ ACE832A0	messageStreetPass_{0}.bin
 27FBDAC8	NetworkSetButton.arc
 285F2086	NewIcon.arc
 8A4369A0	nnfont_RectDrawerShader.shbin
+0D19FDCA	notice.bin
 94E97146	nwh3d_DefaultShader.bch
 E320118A	OrangeInfoLifeJewel.arc
 B1EAA5B2	OrangeInfoPokemon.arc
@@ -664,6 +672,8 @@ F9D3F6C2	PokeLevelGauge.arc
 498B7458	PokeLevelGauge_SP.arc
 CE51E5CC	PokeLevelGauge_UK.arc
 BA1CA8FE	PokeLevelGauge_US.arc
+CF63E692	pokeLoad.bin
+272245FE	pokeLoadPrize.bin
 FF0D2562	Pokemon.arc
 998C1D56	Pokemon128.arc
 52F9040E	pokemonAbility.bin
@@ -2446,7 +2456,10 @@ C0CBDBFE	Ranking.arc
 D6A9EDF6	ranking.gmb
 249885E6	RankingNumber.arc
 24715292	RankingPokemon.arc
+0268FE9C	rankingPrize.bin
+413A01BA	rankingPrizeInfo.bin
 82AAA990	reset_puzzle.bch
+5AE96582	restrictRanking.bin
 81244FD6	Result.arc
 FB31D538	runaway_enemy.bch
 5E386F36	serialCode.bin
@@ -2462,6 +2475,7 @@ E550F7D6	stage.gmb
 A0A387D0	stageDataExtra.bin
 02B95A9C	StageDetails.arc
 5CE6EB30	StageDetailsNumber.arc
+FEF86608	stageDropItem.bin
 1FCDE6C4	stageLayout.bin
 B08D813C	stageLayoutEvent.bin
 7DE6B984	stageLayoutExtra.bin
